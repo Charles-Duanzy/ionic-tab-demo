@@ -45,7 +45,7 @@ ionic serve
 
 For more Commands, you can see [Commands](https://ionicframework.com/docs/cli/commands.html).
 
-#### More Information
+### More Information
 
 Official Ionic Document： 
 
