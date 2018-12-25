@@ -30,13 +30,13 @@ For MacOS:
 sudo npm i -g cordova
 ```
 
-#### Start an app
+### Start an app
 
 ```bash
 ionic start myApp tabs
 ```
 
-#### Run your app
+### Run your app
 
 ```bash
 cd myApp 
